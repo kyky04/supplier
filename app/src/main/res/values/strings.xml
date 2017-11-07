@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Supplier</string>
+
+
+    <array name="array_status">
+        <item>CV</item>
+        <item>SIU</item>
+        <item> - </item>
+
+    </array> <array name="array_ketersediaan">
+        <item>ADA</item>
+        <item>TIDAK</item>
+    </array> <array name="array_kualitas">
+        <item>Grade 1</item>
+        <item>Grade 2</item>
+        <item>Grade 3</item>
+
+    </array>
+</resources>
